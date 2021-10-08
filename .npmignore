@@ -1,0 +1,8 @@
+src/
+coverage/
+.cache/
+jest.config.js
+tsconfig.json
+.coveralls.yml
+.gitignore
+.circleci
