@@ -17,7 +17,7 @@
     "strict": true
   },
   "files": [
-    "src/toPug.ts"
+    "src/index.ts"
   ],
   "exclude": [
     "node_modules"

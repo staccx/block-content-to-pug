@@ -3,8 +3,6 @@
   "version": "0.0.2",
   "description": "Transform Sanity block content to pug",
   "main": "dist/index.js",
-  "module": "dist/index.es.js",
-  "jsnext:main": "dist/index.es.js",
   "author": "Stacc <espens@stacc.com>",
   "license": "MIT",
   "private": false,
